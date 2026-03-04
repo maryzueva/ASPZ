@@ -36,7 +36,7 @@ sudo apt upgrade
 
 Команда:
 - `apt upgrade` — встановлює нові версії програм та системних компонентів
-
+<img width="859" height="248" alt="image" src="https://github.com/user-attachments/assets/1edb4ef7-898f-433b-ba46-675a8628122b" />
 ---
 
 # 2. Встановлення драйверів
@@ -49,6 +49,7 @@ sudo ubuntu-drivers autoinstall
 
 Команда:
 - `ubuntu-drivers autoinstall` — автоматично встановлює відповідні драйвери для обладнання
+<img width="661" height="39" alt="image" src="https://github.com/user-attachments/assets/b10b926c-bbb5-4b11-b41b-0be55d286ce6" />
 
 Після цього систему було перезавантажено:
 
@@ -74,6 +75,8 @@ sudo apt install build-essential git -y
 - `build-essential` — містить компілятор GCC, бібліотеки та інструменти для компіляції
 - `git` — система контролю версій
 - `-y` — автоматичне підтвердження встановлення
+<img width="856" height="334" alt="image" src="https://github.com/user-attachments/assets/7edd58e6-b4d4-4259-8cf7-3ce5ace71d69" />
+<img width="930" height="253" alt="image" src="https://github.com/user-attachments/assets/927a998d-a1bc-4703-b80f-764d9ae534ac" />
 
 Після цього система готова до розробки програм мовою C.
 
@@ -91,6 +94,11 @@ nano hello.c
 - `nano` — текстовий редактор у терміналі
 - `hello.c` — назва майбутнього файлу
 
+Відкриється пустий екран. Це і є текстовий редактор.
+
+<img width="765" height="541" alt="image" src="https://github.com/user-attachments/assets/b60ff1b5-7f13-413d-ac9d-50225366cd40" />
+
+
 У редакторі було введено програму:
 
 ```c
@@ -101,12 +109,7 @@ int main() {
     return 0;
 }
 ```
-
-Пояснення програми:
-- `#include <stdio.h>` — підключення стандартної бібліотеки введення/виведення
-- `main()` — головна функція програми
-- `printf()` — виведення тексту на екран
-- `return 0;` — завершення програми без помилок
+<img width="364" height="239" alt="image" src="https://github.com/user-attachments/assets/dbaddc76-3e57-44fb-8c98-21e83e6475f7" />
 
 ---
 
@@ -128,11 +131,6 @@ int main() {
 gcc hello.c -o hello
 ```
 
-Пояснення:
-- `gcc` — компілятор мови C
-- `hello.c` — вихідний файл
-- `-o hello` — створює виконуваний файл з назвою hello
-
 Якщо помилок немає — компіляція завершена успішно.
 
 ---
@@ -145,10 +143,6 @@ gcc hello.c -o hello
 ./hello
 ```
 
-Команда:
-- `./` — означає запуск файлу з поточної директорії
-- `hello` — назва виконуваного файлу
-
 ---
 
 # 8. Результат виконання
@@ -158,6 +152,7 @@ gcc hello.c -o hello
 ```
 Hello Ubuntu
 ```
+<img width="472" height="80" alt="image" src="https://github.com/user-attachments/assets/e2e53fdf-a3e4-4635-bf4d-bfbf535497a8" />
 
 ---
 
