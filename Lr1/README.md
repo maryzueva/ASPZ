@@ -24,6 +24,10 @@ sudo apt update
 - `sudo` — виконує команду з правами адміністратора
 - `apt update` — оновлює список доступних пакетів із репозиторіїв
 
+В результаті має звявлятитись щось схоже
+<img width="859" height="248" alt="image" src="https://github.com/user-attachments/assets/af492896-a996-4e35-93ac-e39c63641db7" />
+
+
 Далі було виконано:
 
 ```bash
