@@ -328,7 +328,7 @@ Ctrl + Alt + F1
 <img width="646" height="218" alt="image" src="https://github.com/user-attachments/assets/b8fc556c-2c3b-4acc-b3d6-b6100f300506" />
 
 <img width="991" height="429" alt="image" src="https://github.com/user-attachments/assets/10f2326f-0408-4c39-9675-87b6d4f700b6" />
-#### Встановити gdb
+### Встановити gdb
 
 У другому терміналі введи:
 ```
