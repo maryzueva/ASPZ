@@ -11,9 +11,10 @@
 ---
 
 ## Компіляція та запуск
-
+```
 gcc file.c -o program
 ./program
+```
 --- 
 
 # Завдання task1_time
