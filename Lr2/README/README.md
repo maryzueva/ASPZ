@@ -363,18 +363,16 @@ Ctrl + Alt + F1
 
 <img width="991" height="429" alt="image" src="https://github.com/user-attachments/assets/10f2326f-0408-4c39-9675-87b6d4f700b6" />
 ## Встановити gdb
+
 У другому терміналі введи:
 ```
 sudo apt update
-```
-потім:
-```
 sudo apt install gdb
 ```
 Ubuntu запитає:
 Do you want to continue? [Y/n]
-натисни:
-Y
+натисни: Y
+
 <img width="959" height="190" alt="image" src="https://github.com/user-attachments/assets/b018c93e-566f-4ffd-b587-61e203ab9d45" />
 
 <img width="834" height="366" alt="image" src="https://github.com/user-attachments/assets/d829c376-9463-47eb-a7dc-46a255414a4b" />
