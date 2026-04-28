@@ -1,0 +1,54 @@
+total 40
+drwxrwxr-x 12 marmuk marmuk  4096 Apr 27 08:31 ASPZ
+-rwxrwxr-x  1 marmuk marmuk 15960 Feb 22 13:31 hello
+-rw-rw-r--  1 marmuk marmuk    37 Apr 20 09:11 schedule.txt
+-rwxrwxr-x  1 marmuk marmuk 16352 Mar  3 09:07 task1_1
+-rw-rw-r--  1 marmuk marmuk     0 Mar  4 09:38 task1_1.c
+-rw-rw-r--  1 marmuk marmuk     0 Apr 16 07:43 task2_ls.c
+total 448564
+-rwxr-xr-x 1 root root       55744 Jun 22  2025 [
+-rwxr-xr-x 1 root root       18744 Aug 15  2025 aa-enabled
+-rwxr-xr-x 1 root root       18744 Aug 15  2025 aa-exec
+-rwxr-xr-x 1 root root       18736 Aug 15  2025 aa-features-abi
+-rwxr-xr-x 1 root root        1622 Mar 19 11:44 acpidbg
+-rwxr-xr-x 1 root root       16422 Jul  2  2025 add-apt-repository
+-rwxr-xr-x 1 root root       14720 Mar  6 16:00 addpart
+lrwxrwxrwx 1 root root          26 Dec  3 15:01 addr2line -> x86_64-linux-gnu-addr2line
+-rwxr-xr-x 1 root root        2322 Apr 18  2024 apport-bug
+total 980
+-rw-r--r-- 1 root root       3444 Jul  5  2023 adduser.conf
+drwxr-xr-x 2 root root       4096 Feb 22 13:16 alternatives
+drwxr-xr-x 2 root root       4096 Feb 10 00:26 apparmor
+drwxr-xr-x 9 root root       4096 Mar 23 09:40 apparmor.d
+drwxr-xr-x 3 root root       4096 Feb 10 00:26 apport
+drwxr-xr-x 9 root root       4096 Feb 21 20:58 apt
+-rw-r--r-- 1 root root       2319 Mar 31  2024 bash.bashrc
+-rw-r--r-- 1 root root         45 Feb 10 00:34 bash_completion
+drwxr-xr-x 2 root root       4096 Feb 10 00:34 bash_completion.d
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+Home directory files:
+
+/usr/bin files:
+
+/etc files:
+
+Access check for /etc/passwd:
+Read: allowed
+Write: denied
+Execute: denied
+
+Access check for /etc/shadow:
+Read: denied
+Write: denied
+Execute: denied
+
+Access check for /bin/ls:
+Read: allowed
+Write: denied
+Execute: allowed
+
+Reading /etc/passwd:
+
+Reading /etc/shadow without sudo:
